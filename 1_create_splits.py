@@ -81,9 +81,9 @@ if __name__ == "__main__":
     datadir = fr"..\Data"
     
     modality = fr"T2W"
-    datasets = ["UHRD"]
+    datasets = ["...."]
 
-    outputfilename = fr"UH"
+    outputfilename = fr"....."
 
     createTestSplit(datadir,datasets,modality,outputfilename)
 
