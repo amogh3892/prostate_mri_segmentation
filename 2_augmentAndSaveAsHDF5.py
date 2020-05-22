@@ -260,7 +260,7 @@ if __name__ == "__main__":
 
     datadir = fr"..\Data"
     modality = 'T2W'
-    datasets = ["UHRD"]
+    datasets = ["..."]
     
     # for resampling 
     resample_spacing = (1,1,1)
